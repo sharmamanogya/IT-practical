@@ -10,7 +10,7 @@
 
 	<header>
 		<nav class="navbar navbar-expand-md navbar-dark"
-			style="background-color: rgb(255, 0, 0)">
+			style="background-color: rgb(30, 255, 0)">
 			<div>
 				<a href="https://www.xadmin.net" class="navbar-brand"> Student Details </a>
 			</div>
